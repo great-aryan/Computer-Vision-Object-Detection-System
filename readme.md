@@ -28,7 +28,7 @@ Before running the Live Object Detection web application, ensure you have the fo
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/great-aryan/yolov8-Object-detection-web-application-flask.git
+   git clone https://github.com/great-aryan/Computer-Vision-Object-Detection-System
    ```
 
 2. Navigate to the project directory:
